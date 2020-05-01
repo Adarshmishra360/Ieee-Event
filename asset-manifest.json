@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Ieee-Event/static/css/main.ad776318.chunk.css",
+    "main.js": "/Ieee-Event/static/js/main.8d08469e.chunk.js",
+    "main.js.map": "/Ieee-Event/static/js/main.8d08469e.chunk.js.map",
+    "runtime-main.js": "/Ieee-Event/static/js/runtime-main.2e274676.js",
+    "runtime-main.js.map": "/Ieee-Event/static/js/runtime-main.2e274676.js.map",
+    "static/js/2.de2fef5d.chunk.js": "/Ieee-Event/static/js/2.de2fef5d.chunk.js",
+    "static/js/2.de2fef5d.chunk.js.map": "/Ieee-Event/static/js/2.de2fef5d.chunk.js.map",
+    "index.html": "/Ieee-Event/index.html",
+    "precache-manifest.187f16c85f6878f92823d483fe5589b2.js": "/Ieee-Event/precache-manifest.187f16c85f6878f92823d483fe5589b2.js",
+    "service-worker.js": "/Ieee-Event/service-worker.js",
+    "static/css/main.ad776318.chunk.css.map": "/Ieee-Event/static/css/main.ad776318.chunk.css.map",
+    "static/js/2.de2fef5d.chunk.js.LICENSE.txt": "/Ieee-Event/static/js/2.de2fef5d.chunk.js.LICENSE.txt",
+    "static/media/slide_one.jpeg": "/Ieee-Event/static/media/slide_one.937f83f0.jpeg",
+    "static/media/slide_three.jpeg": "/Ieee-Event/static/media/slide_three.3c6eb1cd.jpeg",
+    "static/media/slide_two.jpg": "/Ieee-Event/static/media/slide_two.bd375550.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e274676.js",
+    "static/js/2.de2fef5d.chunk.js",
+    "static/css/main.ad776318.chunk.css",
+    "static/js/main.8d08469e.chunk.js"
+  ]
+}
